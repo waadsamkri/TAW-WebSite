@@ -9,7 +9,7 @@ DATE: May-2022 AUTHORS: Waad Samkari
 
 Instruction to use:
 
-Download Xammp then start run Apache and MySQL.
-Download file(taw_designe.sql) then open it by MySQL.
-Download all the project files and open the project folder by Visual Studio Code.
-Open this URL whith your web browser (http://localhost/TAW/main.php).
+1.Download Xammp then start run Apache and MySQL.
+2.Download file(taw_designe.sql) then open it by MySQL.
+3.Download all the project files and open the project folder by Visual Studio Code.
+4.Open this URL whith your web browser (http://localhost/TAW/main.php).
